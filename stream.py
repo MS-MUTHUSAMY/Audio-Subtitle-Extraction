@@ -6,7 +6,7 @@ import pandas as pd
 # Setting Webpage Configurations
 st.set_page_config(page_icon="🎶",page_title="Audio Extracter", layout="wide")
 
-st.markdown("<h1 style='text-align: center; color: blue;'>Audio Subtitle Extracter 🎧</h1>",unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>🎶 Audio Subtitle Extracter 🎧</h1>",unsafe_allow_html=True)
 
 #st.title(':blue[Audio Subtitle Extracter 🎧]')
 
