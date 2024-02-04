@@ -1,0 +1,6 @@
+streamlit
+pandas
+deep-translator
+SpeechRecognition
+selenium
+pydub
